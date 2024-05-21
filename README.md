@@ -6,7 +6,7 @@ You create a simple, easy-to-manage list with tasks you need to do.
 ## Use of the application
 After starting an application, a window with space for your list shows up. At the bottom there is a window where you can enter new task with "Add" button next to it. To add new task you need to click the button or press "Enter" on the keyboard.
 
-![start_screen](https://github.com/Paulina-Celebias/ToDoList/blob/main/Screenshots/list1.png?raw=true)
+![start_screen](https://github.com/Paulina-Celebias/ToDoList/Screenshots/list1.png?raw=true)
 
 After submiting the task, it will be visible on the list. On the lef side of your task there is an empty circular box. It represents an unfinished task. On the right side of the task you can see a bin button, used to remove the task.
 
