@@ -8,7 +8,7 @@ After starting an application, a window with space for your list shows up. At th
 
 ![application_window](https://github.com/Paulina-Celebias/ToDoList/blob/main/Screenshots/list_1.png?raw=true)
 
-After submiting the task, it will be visible on the list. On the lef side of your task there is an empty circular box. It represents an unfinished task. On the right side of the task you can see a bin button, used to remove the task.
+After submiting new task, it will be visible on the list. On the left side of your task there is an empty circular box. It represents an unfinished task. On the right side of the task you can see a bin button, used to remove the task.
 
 ![created_list](https://github.com/Paulina-Celebias/ToDoList/blob/main/Screenshots/list_2.png?raw=true)
 
@@ -16,7 +16,8 @@ If you completed the task, you can click on the circular box on the left side of
 
 ![tick_task](https://github.com/Paulina-Celebias/ToDoList/blob/main/Screenshots/list_3.png?raw=true)
 
-If you want to remove completed task, you need to click on the bin button on the right side of the task. A warning window apperas to make sure you didn't click the button by accident and you really want to delete the task. To confirm, you need to click "Ok" button.
+If you want to remove a completed task, you need to click on the bin button on the right side of the task. A warning window apperas to make sure you didn't click the button by accident and that you really want to delete the task.
+To confirm, you need to click "OK" button.
 
 ![remove_task](https://github.com/Paulina-Celebias/ToDoList/blob/main/Screenshots/list_4.png?raw=true)
 
